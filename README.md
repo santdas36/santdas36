@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dash Santosh</h1>
 <h3 align="center">Frontend Developer and Freelance Designer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santdas36&label=Profile%20views&color=0e75b6&style=flat" alt="santdas36" /> </p>
 
 - 🔭 I’m currently working on [Amazon-ish](https://github.com/santdas36/amazon-ish)
 
