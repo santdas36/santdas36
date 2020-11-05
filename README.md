@@ -2,9 +2,9 @@
 ### I'm a Frontend Developer and Freelance Designer from India.
 
 
-- 🔭 I’m currently working on a Smart Attendance Management Solution
+- 🔭 I’m currently working on [a10dance](https://github.com/santdas36/a10dance) - a Smart Attendance Management Solution
 
-- 🌱 I’m currently learning **ReactJs, Redux, NodeJs**
+- 🌱 I’m currently learning **ReactJs, React Native, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://dashsantosh.ga](https://dashsantosh.ga)
 
