@@ -2,7 +2,7 @@
 ### I'm a Frontend Developer and Freelance Designer from India.
 
 
-- 🔭 I’m currently working on [Amazon-ish](https://github.com/santdas36/amazon-ish)
+- 🔭 I’m currently working on a Smart Attendance Management Solution
 
 - 🌱 I’m currently learning **ReactJs, Redux, NodeJs**
 
