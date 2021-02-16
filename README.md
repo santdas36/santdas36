@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ReactJs, React Native, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://dashsantosh.ga](https://dashsantosh.ga)
+- 👨‍💻 All of my projects are available at [https://dashsantosh.me](https://dashsantosh.me)
 
-- 📫 How to reach me **dashsantosh@pm.me**
+- 📫 How to reach me **hello@dashsantosh.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
