@@ -2,7 +2,7 @@
 
 <h3>I'm a Frontend Developer and Freelance Designer from India.</h3>
 
-- 🔭 I’m currently working on [a10dance](https://github.com/santdas36/a10dance) - a smart attendance management system
+- 🔭 I’m currently working on something awesome 🔥😎
 
 - 🌱 I’m currently learning **ReactJs, React Native, NodeJs**
 
