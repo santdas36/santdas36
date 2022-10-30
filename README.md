@@ -1,6 +1,6 @@
 ![header](./header.jpg)
 
-<h3>I'm a Frontend Developer and Freelance Designer from India.</h3>
+<h3>I'm a Frontend Developer and UI/UX Designer from India.</h3>
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
